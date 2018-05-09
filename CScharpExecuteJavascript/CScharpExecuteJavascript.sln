@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CScharpExecuteJavascript", "CScharpExecuteJavascript.csproj", "{FAF9C767-4C1C-43C9-ADFD-39F1A11AFDE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF9C767-4C1C-43C9-ADFD-39F1A11AFDE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF9C767-4C1C-43C9-ADFD-39F1A11AFDE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF9C767-4C1C-43C9-ADFD-39F1A11AFDE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF9C767-4C1C-43C9-ADFD-39F1A11AFDE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99232054-AA54-4CD9-94AF-B69324E501E5}
+	EndGlobalSection
+EndGlobal
